@@ -1,0 +1,1 @@
+This repository is a open source code of writing where ldc members can contribute and share their knowledge and experiences. This repository is a collection of articles, tutorials, and guides. Feel free to update it for the benefit of the community.
